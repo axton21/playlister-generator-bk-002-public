@@ -1,6 +1,6 @@
 ---
-tags: generators, static site, erb, object orientation, parser
-language: ruby
+  tags: generators, static site, erb, object orientation, parser
+  language: ruby
   resources: 2
 ---
 
