@@ -1,6 +1,7 @@
 ---
 tags: generators, static site, erb, object orientation, parser
 language: ruby
+  resources: 2
 ---
 
 # Playlister Generator
@@ -53,3 +54,7 @@ Folk
 songs/<song>.html
 The song page should list all the available information on the song, it's artist and genre
 with the appropriate links.
+
+## Resources
+* [Bolmaster2](http://blog.bolmaster2.com/) - [Building web apps with Sinatra: My basic setup](http://blog.bolmaster2.com/building-web-apps-with-sinatra-my-basic-setup/)
+* [Matt Weppler's Blog](http://matt.weppler.me/) - [Let's Build a Sinatra App](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
